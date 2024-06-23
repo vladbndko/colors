@@ -12,7 +12,7 @@
     "node": "^20"
   },
   "author": "Vladyslav Bondarenko <vladbndko@gmail.com>",
-  "repository": "vladbndko/color",
+  "repository": "vladbndko/colors",
   "license": "MIT",
   "type": "module",
   "exports": {
